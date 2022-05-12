@@ -270,4 +270,7 @@
     <string name="adaptive_color_title">Dynamic</string>
 
     <string name="icon_pack_title">System Icon Packs</string>
+
+    <string name="font_title">System fonts</string>
+    <string name="font_preview_card_content_description">Font Preview</string>
 </resources>
